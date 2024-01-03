@@ -1,0 +1,11 @@
+.gradient{
+    background:rgb(94, 20, 154);
+    background: linear-gradient(
+    90deg, /* Change the angle to have a horizontal gradient */
+    rgb(237, 220, 246) 0%, /* Start with the dark color on the left (0%) */
+    rgb(157, 67, 230) 100% ,
+    rgb(105, 13, 209) 100% /* End with the light color on the right (100%) */
+  );
+  
+
+    }
